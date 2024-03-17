@@ -1,0 +1,7 @@
+"","chr.exposure","pos.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1","2",165513091,0.0534343,0.00690323,9.90376e-15,56802,"ebi-a-GCST90007307","rs10195252","C","T",0.407599,"circulating leptin levels || id:ebi-a-GCST90007307",TRUE,"reported","igd"
+"2","2",27741237,0.0395971,0.00693105,1.11002e-08,56802,"ebi-a-GCST90007307","rs780094","C","T",0.57901,"circulating leptin levels || id:ebi-a-GCST90007307",TRUE,"reported","igd"
+"3","3",156798732,-0.036454,0.00654132,2.50553e-08,56802,"ebi-a-GCST90007307","rs900399","G","A",0.389334,"circulating leptin levels || id:ebi-a-GCST90007307",TRUE,"reported","igd"
+"4","7",130433384,0.035914,0.00606133,3.12097e-09,56802,"ebi-a-GCST90007307","rs4731702","T","C",0.464041,"circulating leptin levels || id:ebi-a-GCST90007307",TRUE,"reported","igd"
+"5","7",127865816,-0.0481496,0.00658651,2.66502e-13,56802,"ebi-a-GCST90007307","rs791600","A","G",0.42219,"circulating leptin levels || id:ebi-a-GCST90007307",TRUE,"reported","igd"
+"6","16",53800954,0.0524103,0.00641863,3.20553e-16,56802,"ebi-a-GCST90007307","rs1421085","C","T",0.378127,"circulating leptin levels || id:ebi-a-GCST90007307",TRUE,"reported","igd"
